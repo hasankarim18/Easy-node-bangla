@@ -176,6 +176,11 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
 ## Contact
 
 Hasan Mahbub ul Karim - [hallysust@gmail.com](mailto:hallysust@gmail.com)
+copy email: ```sh 
+            hallysust@gmail.com
+            ```
+
+
 
 
 
